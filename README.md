@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Data engineering projects**
 
-- 🌱 I’m currently learning **Angular.js,**
+- 🌱 ,**
 
 - 📫 How to reach me **bhatiahariti@gmail.com**
 
