@@ -49,7 +49,7 @@ Welcome to my world of code, creativity, and data-driven solutions! I am Hariti 
 
 ---
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername) or send a message to [your.email@example.com]. Let's embark on a journey of innovation and code together!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/haritibhatia) or send a message to bhatiahariti@gmail.com. Let's embark on a journey of innovation and code together!
 
 <a href="https://linkedin.com/in/hariti bhatia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hariti bhatia" height="30" width="40" /></a>
 </p>
