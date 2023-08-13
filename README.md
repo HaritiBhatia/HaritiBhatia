@@ -11,6 +11,7 @@ Welcome to my world of code, creativity, and data-driven solutions! I am Hariti 
 📊 **Visualizing Insights**: Power BI is my canvas, where I transform raw data into captivating visual narratives.
 
 🏢 **Experience Crafting**: From architecting interactive dashboards for a multitude of employees to leading teams, I weave experiences that matter.
+📊 Eager Explorer: Currently delving into the realms of Apache Kafka and AWS, excited to add their magic to my toolkit.
 
 ##Experiences
 
