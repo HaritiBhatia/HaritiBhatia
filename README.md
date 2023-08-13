@@ -1,4 +1,55 @@
-Welcome to my world of code, creativity, and data-driven solutions! I am [Your Name], a passionate and forward-thinking software engineer with a knack for transforming complex challenges into elegant solutions. With a diverse skill set and a passion for innovation, I'm on a mission to make a positive impact in the realm of technology.
+Welcome to my world of code, creativity, and data-driven solutions! I am Hariti Bhatia, a passionate and forward-thinking software engineer with a knack for transforming complex challenges into elegant solutions. With a diverse skill set and a passion for innovation, I'm on a mission to make a positive impact in the realm of technology.
+
+
+
+## A Glimpse of My Skill Palette
+
+🚀 **Technological Fusion**: A symphony of Java, C++, Python, and more to orchestrate seamless software experiences.
+
+📊 **Data Whisperer**: Fluent in the language of data - from orchestrating databases to harnessing the magic of DataLake and performing SQL incantations.
+
+📊 **Visualizing Insights**: Power BI is my canvas, where I transform raw data into captivating visual narratives.
+
+🏢 **Experience Crafting**: From architecting interactive dashboards for a multitude of employees to leading teams, I weave experiences that matter.
+
+##Experiences
+
+### Data Engineer @ Cognizant, India
+#### Jul 2022 - Aug 2023
+
+
+
+### SDE Intern @ Cognizant, India
+#### Feb 2022 - Jun 2022
+
+
+
+### SDE Intern @ Larsen and Toubro, India
+#### May 2021 - June 2021
+
+
+
+## Crafting Code Marvels
+
+### Home Price Analysis and Prediction
+#### Mar 2021
+
+### Hand Written Recognition System
+#### Dec 2021
+
+
+## Words Woven with Ink and Code
+
+📖 "Home Price Prediction using Machine Learning," Zeichen Journal, July 2022
+
+📖 "HandWritten Character Recognition," International Journal of Research and Analytical Reviews, July 2022
+
+📖 "Big Data and Cloud Computing," International Journal of Research and Analytical Reviews, August 2022
+
+---
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername) or send a message to [your.email@example.com]. Let's embark on a journey of innovation and code together!
+
 <a href="https://linkedin.com/in/hariti bhatia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hariti bhatia" height="30" width="40" /></a>
 </p>
 
