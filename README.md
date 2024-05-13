@@ -14,8 +14,8 @@ Welcome to my world of code, creativity, and data-driven solutions! I am Hariti 
 📊 Eager Explorer: Currently delving into the realms of AWS, excited to add their magic to my toolkit.
 
 
-###Experiences
 
+## Experiences
 ### Data Engineer @ Cognizant, India
 #### Jul 2022 - Aug 2023
 
