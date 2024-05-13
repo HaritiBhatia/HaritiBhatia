@@ -29,16 +29,6 @@ Welcome to my world of code, creativity, and data-driven solutions! I am Hariti 
 #### May 2021 - June 2021
 
 
-
-## Crafting Code Marvels
-
-### Home Price Analysis and Prediction
-#### Mar 2021
-
-### Hand Written Recognition System
-#### Dec 2021
-
-
 ## Words Woven with Ink and Code
 
 📖 "Home Price Prediction using Machine Learning," Zeichen Journal, July 2022
