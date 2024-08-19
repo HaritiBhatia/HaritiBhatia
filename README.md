@@ -4,14 +4,19 @@ Welcome to my world of code, creativity, and data-driven solutions! I am Hariti 
 
 ## A Glimpse of My Skill Palette
 
-🚀 **Technological Fusion**: A symphony of Java, C++, Python, and more to orchestrate seamless software experiences.
+🚀 Technological Fusion: Mastering a diverse set of programming languages and frameworks to create seamless software solutions.
+Programming Languages: Java, Spring, Python, C#, C++, HTML5, CSS, JavaScript, SQL, Bash
+Tools & Frameworks: Node.js, Express.js, Spring Framework, Spring Boot, Hibernate, React.js, Redux, RESTful APIs, JUnit, Git, RabbitMQ, CI/CD, Kubernetes, Docker, Django, Maven, Jenkins, IntelliJ/Eclipse, Tomcat, JDBC, Linux, AWS (EC2, S3, Route 53, Lambda, ECR, EKS, MQ)
 
-📊 **Data Whisperer**: Fluent in the language of data - from orchestrating databases to harnessing the magic of DataLake and performing SQL incantations.
+📊 Data Whisperer: Fluent in the language of data - from database management to advanced machine learning techniques.
+Databases: MySQL, MongoDB, Oracle, Redshift, Postgres
+Data Science & Machine Learning: Python, Java, R, JavaScript, SQL, C++, PySpark, NumPy, Pandas, SciPy, Scikit-learn, Pytorch, TensorFlow, Transformers, LLMs-Llama
+Machine Learning Algorithms: Regression, KNN, SVM, K-Means, Random Forest, ANN, CNN, Deep Neural Networks, Ensemble Learning, Clustering, PCA, GANs, Bayesian Machine Learning, MLFlow
+Data Visualization: Power BI, Tableau
+🏢 Experience Crafting: Bringing experience and expertise in creating impactful solutions and leading teams.
 
-📊 **Visualizing Insights**: Power BI is my canvas, where I transform raw data into captivating visual narratives.
-
-🏢 **Experience Crafting**: From architecting interactive dashboards for a multitude of employees to leading teams, I weave experiences that matter.
-📊 Eager Explorer: Currently delving into the realms of AWS, excited to add their magic to my toolkit.
+Concepts & Competencies: Data Structures & Algorithms, Object-Oriented Programming, SOA, Web Services, Design Patterns, Microservices, Operating Systems, Agile, Computer Networks, Linux
+📊 Eager Explorer: Continuously expanding my skill set, currently diving into AWS to enhance my cloud computing expertise.
 
 
 
@@ -35,8 +40,6 @@ Welcome to my world of code, creativity, and data-driven solutions! I am Hariti 
 📖 "Home Price Prediction using Machine Learning," Zeichen Journal, July 2022
 
 📖 "HandWritten Character Recognition," International Journal of Research and Analytical Reviews, July 2022
-
-📖 "Big Data and Cloud Computing," International Journal of Research and Analytical Reviews, August 2022
 
 ---
 
