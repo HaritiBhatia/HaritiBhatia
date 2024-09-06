@@ -21,17 +21,17 @@ Concepts & Competencies: Data Structures & Algorithms, Object-Oriented Programmi
 
 
 ## Experiences
-### Data Engineer @ Cognizant, India
+### Data Analyst @ Cognizant
 #### Jul 2022 - Aug 2023
 
 
 
-### SDE Intern @ Cognizant, India
+### Intern @ Cognizant
 #### Feb 2022 - Jun 2022
 
 
 
-### SDE Intern @ Larsen and Toubro, India
+### Intern @ Larsen and Toubro
 #### May 2021 - June 2021
 
 
