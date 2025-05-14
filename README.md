@@ -5,13 +5,13 @@ Welcome to my world of code, creativity, and data-driven solutions! I am Hariti 
 ## A Glimpse of My Skill Palette
 
 🚀 Technological Fusion: Mastering a diverse set of programming languages and frameworks to create seamless software solutions.
-Programming Languages: Java, Python, JavaScript, SQL, Bash
-Tools & Frameworks: Node.js, Express.js, Spring Framework, Spring Boot, Hibernate, React.js,RESTful APIs,Git, RabbitMQ, CI/CD, Kubernetes, Docker, Maven, Jenkins, IntelliJ/Eclipse, Tomcat, JDBC, Linux, AWS (EC2, S3, Route 53, Lambda, ECR, EKS, MQ)
+Programming Languages: Python, JavaScript, SQL, Bash
+Tools & Frameworks: Node.js, Express.js, React.js,RESTful APIs,Git, RabbitMQ, CI/CD, Kubernetes, Docker,Linux, AWS (EC2, S3, Route 53, Lambda, ECR, EKS, MQ)
 
 📊 Data Whisperer: Fluent in the language of data - from database management to advanced machine learning techniques.
 Databases: MySQL, MongoDB, Oracle, Redshift, Postgres
-Data Science & Machine Learning: Python,R,SQL,PySpark, NumPy, Pandas, SciPy, Scikit-learn, Pytorch, TensorFlow, Transformers, LLMs-Llama
-Machine Learning Algorithms: Regression, KNN, SVM, K-Means, Random Forest, ANN, CNN, Deep Neural Networks, Ensemble Learning, Clustering, PCA, GANs, Bayesian Machine Learning, MLFlow
+Data Science & Machine Learning: Python,R,SQL,PySpark, NumPy, Pandas, Scikit-learn, Pytorch, TensorFlow, Transformers, LLMs-Llama
+Machine Learning Algorithms: Regression,Deep Neural Networks, Ensemble Learning, Clustering, PCA, GANs, Bayesian Machine Learning, MLFlow
 Data Visualization: Power BI, Tableau
 🏢 Experience Crafting: Bringing experience and expertise in creating impactful solutions and leading teams.
 
