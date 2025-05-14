@@ -6,7 +6,7 @@ Welcome to my world of code, creativity, and data-driven solutions! I am Hariti 
 
 🚀 Technological Fusion: Mastering a diverse set of programming languages and frameworks to create seamless software solutions.
 Programming Languages: Python, JavaScript, SQL, Bash
-Tools & Frameworks: Node.js, Express.js, React.js,RESTful APIs,Git, RabbitMQ, CI/CD, Kubernetes, Docker,Linux, AWS (EC2, S3, Route 53, Lambda, ECR, EKS, MQ)
+Tools & Frameworks: Node.js, Express.js, React.js, RabbitMQ, Kubernetes, Docker,Linux, AWS (EC2, S3, Route 53, Lambda, ECR, EKS, MQ)
 
 📊 Data Whisperer: Fluent in the language of data - from database management to advanced machine learning techniques.
 Databases: MySQL, MongoDB, Oracle, Redshift, Postgres
